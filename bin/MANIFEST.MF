@@ -1,0 +1,9 @@
+MIDlet-1: AC lite, AC lite.png, display.AC
+MIDlet-Description: Attendance Calculator
+MIDlet-Icon: AC lite.png
+MIDlet-Info-URL: http://www.mohit-gvalani.appspot.com
+MIDlet-Name: AC lite
+MIDlet-Vendor: Mohit Gvalani
+MIDlet-Version: 0.1
+MicroEdition-Configuration: CLDC-1.0
+MicroEdition-Profile: MIDP-2.0
