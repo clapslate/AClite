@@ -1,6 +1,15 @@
 AC lite
 Version 0.1
-Author: Mohit Gvalani
+Developed By: Mohit Gvalani
+Email: mohitindubai@gmail.com
+
+*Copyright 2010, Mohit Gvalani
+
+*License Agreement
+*AC lite is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
+*AC lite is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU General Public License for more details.
+*You should have received a copy of the GNU General Public License along with AC lite.  If not, see <http://www.gnu.org/licenses/>.
+
 
 *Overview
 Attendance Calculator is Java Mobile application that can be used by college students to manage their attendance.
