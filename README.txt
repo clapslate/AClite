@@ -3,6 +3,7 @@ Version 0.1
 Author: Mohit Gvalani
 
 *Overview
+Attendance Calculator is Java Mobile application that can be used by college students to manage their attendance.
 AC(Attendance Calculator) will help you to
 - calculate your attendance
 - set a target attendance
